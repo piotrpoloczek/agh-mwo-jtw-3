@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="agh.ii.jtp.fp.PlayWithMoviesTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2025-05-10T21:00:19" hostname="PiotrPoloczeks-MacBook-Pro.local" time="0.064">
+  <properties/>
+  <testcase name="testEx01()" classname="agh.ii.jtp.fp.PlayWithMoviesTest" time="0.032"/>
+  <testcase name="testEx02()" classname="agh.ii.jtp.fp.PlayWithMoviesTest" time="0.005"/>
+  <testcase name="testEx03()" classname="agh.ii.jtp.fp.PlayWithMoviesTest" time="0.004"/>
+  <testcase name="testEx04()" classname="agh.ii.jtp.fp.PlayWithMoviesTest" time="0.002"/>
+  <testcase name="testEx05()" classname="agh.ii.jtp.fp.PlayWithMoviesTest" time="0.003"/>
+  <testcase name="testEx06()" classname="agh.ii.jtp.fp.PlayWithMoviesTest" time="0.001"/>
+  <testcase name="testEx07()" classname="agh.ii.jtp.fp.PlayWithMoviesTest" time="0.002"/>
+  <testcase name="testEx08()" classname="agh.ii.jtp.fp.PlayWithMoviesTest" time="0.003"/>
+  <testcase name="testEx09()" classname="agh.ii.jtp.fp.PlayWithMoviesTest" time="0.003"/>
+  <testcase name="testEx10()" classname="agh.ii.jtp.fp.PlayWithMoviesTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
